@@ -15,7 +15,7 @@ export const ICON_SIZE = 22;
 
 export const SOCIAL_PROFILES = [
   {
-    link: 'https://twitter.com/sntanju077',
+    link: 'https://twitter.com/sntanju07',
     title: 'Twitter',
     icon: <FaTwitter color="#1DA1F2" size={ICON_SIZE} />,
   },

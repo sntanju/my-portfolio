@@ -7,9 +7,9 @@ import ThemeContextProvider from '@/context/theme-context';
 const dm_mono = DM_Mono({ weight: '400', subsets: [] });
 
 export const metadata = {
-  title: 'Md Sajjad Hosen Noyon',
+  title: 'Sanjida Nasrin',
   description:
-    'Md Sajjad Hosen Noyon is a software engineer with 2 year of experience',
+    'Sanjida Nasrin is a software developer with proper skills',
 };
 
 export default function RootLayout({

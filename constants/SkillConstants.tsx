@@ -28,10 +28,6 @@ export const allSkills = [
     icon: <SiTailwindcss color="#3490dc" fontSize={ICON_SIZE} />,
   },
   {
-    name: 'Chakra UI',
-    icon: <SiChakraui color="#06b6d4" fontSize={ICON_SIZE} />,
-  },
-  {
     name: 'JavaScript',
     icon: <IoLogoJavascript color="#F0DB4F" fontSize={ICON_SIZE} />,
   },
@@ -46,10 +42,9 @@ export const allSkills = [
   },
   { name: 'Git', icon: <FaGithub color="gray" fontSize={ICON_SIZE} /> },
   { name: 'Redux', icon: <SiRedux color="#8b5cf6" fontSize={ICON_SIZE} /> },
-  { name: 'RTK Query', icon: <SiRedux color="#8b5cf6" fontSize={ICON_SIZE} /> },
   { name: 'C', icon: <FaC color="#38bdf8" fontSize={ICON_SIZE} /> },
   { name: 'C++', icon: <SiCplusplus color="#155e75" fontSize={ICON_SIZE} /> },
-  { name: 'Java', icon: <FaJava color="#e11d48" fontSize={ICON_SIZE} /> },
+ 
 ];
 
 export const designSkills = [
@@ -62,10 +57,7 @@ export const designSkills = [
     name: 'Tailwind',
     icon: <SiTailwindcss color="#3490dc" fontSize={ICON_SIZE} />,
   },
-  {
-    name: 'Chakra UI',
-    icon: <SiChakraui color="#06b6d4" fontSize={ICON_SIZE} />,
-  },
+  
 ];
 
 export const languateSkills = [
@@ -79,7 +71,7 @@ export const languateSkills = [
   },
   { name: 'C', icon: <FaC color="#38bdf8" fontSize={ICON_SIZE} /> },
   { name: 'C++', icon: <SiCplusplus color="#155e75" fontSize={ICON_SIZE} /> },
-  { name: 'Java', icon: <FaJava color="#e11d48" fontSize={ICON_SIZE} /> },
+  
 ];
 
 export const frameworkSkills = [
@@ -89,7 +81,7 @@ export const frameworkSkills = [
     icon: <TbBrandNextjs color="#78716c" fontSize={ICON_SIZE} />,
   },
   { name: 'Redux', icon: <SiRedux color="#8b5cf6" fontSize={ICON_SIZE} /> },
-  { name: 'RTK Query', icon: <SiRedux color="#8b5cf6" fontSize={ICON_SIZE} /> },
+  
 ];
 
 export const otherSkills = [
