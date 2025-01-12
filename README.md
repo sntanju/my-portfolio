@@ -34,18 +34,18 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## Mobile Preview
 
 <p align="center">
-  <a href="https://noyon-next-portfolio.vercel.app/" target="_blank">
-    <img width="500" src="./public/screenShot/mobile1.jpg">
+  <a href="https://sanjidanasrin.vercel.app/" target="_blank">
+    <img width="500" src="./public/screenShot/portfolio3.jpeg">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://noyon-next-portfolio.vercel.app/" target="_blank">
-    <img width="500" src="./public/screenShot/light-web1.png" />
-    <img width="500" src="./public/screenShot/dark-web1.png" />
+  <a href="https://sanjidanasrin.vercel.app/" target="_blank">
+    <img width="500" src="./public/screenShot/portfolio1.jpeg" />
+    <img width="500" src="./public/screenShot/portfolio2.jpeg" />
   </a>
 </p>
 
 ## Live Demo
 
-### Hosted on Vercel [https://noyon-next-portfolio.vercel.app/](https://noyon-next-portfolio.vercel.app/)
+### Hosted on Vercel [https://sanjidanasrin.vercel.app/](https://sanjidanasrin.vercel.app/)
