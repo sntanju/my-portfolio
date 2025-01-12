@@ -1,4 +1,4 @@
-import { FaHtml5 } from 'react-icons/fa';
+import { FaHtml5, FaLaravel, FaPhp } from 'react-icons/fa';
 import { IoLogoCss3 } from 'react-icons/io5';
 import { SiTailwindcss } from 'react-icons/si';
 import { SiChakraui } from 'react-icons/si';
@@ -66,6 +66,10 @@ export const languateSkills = [
     icon: <IoLogoJavascript color="#F0DB4F" fontSize={ICON_SIZE} />,
   },
   {
+    name: 'PHP',
+    icon: <FaPhp color="#F0DB4F" fontSize={ICON_SIZE} />,
+  },
+  {
     name: 'TypeScript',
     icon: <TbBrandTypescript color="#007acc" fontSize={ICON_SIZE} />,
   },
@@ -76,6 +80,7 @@ export const languateSkills = [
 
 export const frameworkSkills = [
   { name: 'React', icon: <FaReact color="#00ffff" fontSize={ICON_SIZE} /> },
+  { name: 'Laravel', icon: <FaLaravel color="#00ffff" fontSize={ICON_SIZE} /> },
   {
     name: 'Next JS',
     icon: <TbBrandNextjs color="#78716c" fontSize={ICON_SIZE} />,
