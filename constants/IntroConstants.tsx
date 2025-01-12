@@ -30,7 +30,7 @@ export const SOCIAL_PROFILES = [
     icon: <FaLinkedin color="#0077B5" size={ICON_SIZE} />,
   },
   {
-    link: 'https://stackoverflow.com/users/19215771/sntanju07',
+    link: 'https://stackoverflow.com/users/29166542/sanjida-nasrin',
     title: 'Stackoverflow',
     icon: <FaStackOverflow color="#EF8236" size={ICON_SIZE} />,
   },
