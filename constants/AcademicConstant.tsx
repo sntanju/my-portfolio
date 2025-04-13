@@ -8,7 +8,7 @@ export const academicDegrees = [
   {
     title: 'BSS in Economics',
     institute: 'Patiya Government College',
-    passingYear: 'Dropout',
+    passingYear: '2022-Current',
     gpa: '',
     icon: <LiaUniversitySolid color="#db2777" fontSize={ICON_SIZE} />,
   },

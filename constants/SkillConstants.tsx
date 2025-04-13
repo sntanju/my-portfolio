@@ -69,10 +69,7 @@ export const languateSkills = [
     name: 'PHP',
     icon: <FaPhp color="#F0DB4F" fontSize={ICON_SIZE} />,
   },
-  {
-    name: 'TypeScript',
-    icon: <TbBrandTypescript color="#007acc" fontSize={ICON_SIZE} />,
-  },
+  
   { name: 'C', icon: <FaC color="#38bdf8" fontSize={ICON_SIZE} /> },
   { name: 'C++', icon: <SiCplusplus color="#155e75" fontSize={ICON_SIZE} /> },
   

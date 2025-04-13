@@ -11,6 +11,21 @@ export const COMPETITIVE_PROGRAMING_HEADING = 'Competitive Programing';
 
 export const competitiveProgramingDetails = [
   {
+    name: 'Codeforces',
+    topRating: 'Top rating 1030',
+    participationInContest: 'Participated in 60+ contests',
+    totalSolve: 'Total 578+ prblem solved',
+    link: 'https://codeforces.com/profile/sntanju07',
+    icon: (
+      <Image
+        src={Codeforces}
+        alt="codeforces"
+        width={ICON_SIZE}
+        height={ICON_SIZE}
+      />
+    ),
+  },
+  {
     name: 'LeetCode',
     topRating: 'Top rating 1372',
     participationInContest: 'Participated in 11 contest',
@@ -34,22 +49,7 @@ export const competitiveProgramingDetails = [
     ),
   },
   {
-    name: 'Codeforces',
-    topRating: 'Top rating 1030',
-    participationInContest: 'Participated in 60+ contests',
-    totalSolve: 'Total 578+ prblem solved',
-    link: 'https://codeforces.com/profile/sntanju07',
-    icon: (
-      <Image
-        src={Codeforces}
-        alt="codeforces"
-        width={ICON_SIZE}
-        height={ICON_SIZE}
-      />
-    ),
-  },
-  {
-    name: 'At Coder',
+    name: 'AtCoder',
     topRating: 'Top rating 200',
     participationInContest: 'Participated in 25+ contest',
     totalSolve: 'Total 60+ prblem solved',
@@ -68,14 +68,5 @@ export const competitiveProgramingDetails = [
       <Image src={hackerearth} alt="lightoj" width={ICON_SIZE} height={ICON_SIZE} />
     ),
   },
-  {
-    name: 'Light Oj',
-    topRating: 'Top rating 0',
-    participationInContest: 'Participated in 0 contest',
-    totalSolve: 'Total 15+ prblem solved',
-    link: 'https://lightoj.com/user/sntanju07',
-    icon: (
-      <Image src={lightOj} alt="lightoj" width={ICON_SIZE} height={ICON_SIZE} />
-    ),
-  },
+  
 ];

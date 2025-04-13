@@ -31,7 +31,7 @@ const EducationCard: React.FC<{ education: EducationProps }> = ({
         </div>
         <div className="flex flex-row gap-4 items-center">
           <div> 
-            {education.passingYear !== 'Dropout' && (
+            {education.passingYear !== '2022-Current' && (
               <FaRegCheckCircle color="#0e7490" fontSize={ICON_SIZE} />
             )}
           </div>
