@@ -13,14 +13,14 @@ export const academicDegrees = [
     icon: <LiaUniversitySolid color="#db2777" fontSize={ICON_SIZE} />,
   },
   {
-    title: 'Higher Secondary School certificate',
+    title: 'Higher Secondary School Certificate',
     institute: 'Patiya Government College',
     passingYear: 'Passing year 2020',
     gpa: 'GPA 4.42/5.00',
     icon: <IoSchoolOutline color="#db2777" fontSize={ICON_SIZE} />,
   },
   {
-    title: 'Secondary School certificate',
+    title: 'Secondary School Certificate',
     institute: 'Chatary Union High School',
     passingYear: 'Passing year 2018',
     gpa: 'GPA 4.11/5.00',
