@@ -1,6 +1,6 @@
 import { FaHtml5, FaLaravel, FaPhp } from 'react-icons/fa';
 import { IoLogoCss3 } from 'react-icons/io5';
-import { SiTailwindcss } from 'react-icons/si';
+import { SiDart, SiFlutter, SiTailwindcss } from 'react-icons/si';
 import { SiChakraui } from 'react-icons/si';
 import { IoLogoJavascript } from 'react-icons/io';
 import { TbBrandTypescript } from 'react-icons/tb';
@@ -36,12 +36,14 @@ export const allSkills = [
     icon: <TbBrandTypescript color="#007acc" fontSize={ICON_SIZE} />,
   },
   { name: 'React', icon: <FaReact color="#00ffff" fontSize={ICON_SIZE} /> },
+  { name: 'Flutter', icon: <SiFlutter color="#3590dc" fontSize={ICON_SIZE} /> },
   {
     name: 'Next JS',
     icon: <TbBrandNextjs color="#78716c" fontSize={ICON_SIZE} />,
   },
   { name: 'Git', icon: <FaGithub color="gray" fontSize={ICON_SIZE} /> },
   { name: 'Redux', icon: <SiRedux color="#8b5cf6" fontSize={ICON_SIZE} /> },
+   { name: 'Dart', icon: <SiDart color="#3590dc" fontSize={ICON_SIZE} /> },
   { name: 'C', icon: <FaC color="#38bdf8" fontSize={ICON_SIZE} /> },
   { name: 'C++', icon: <SiCplusplus color="#155e75" fontSize={ICON_SIZE} /> },
  
@@ -69,6 +71,8 @@ export const languateSkills = [
     name: 'PHP',
     icon: <FaPhp color="#F0DB4F" fontSize={ICON_SIZE} />,
   },
+     { name: 'Dart', icon: <SiDart color="#3590dc" fontSize={ICON_SIZE} /> },
+
   
   { name: 'C', icon: <FaC color="#38bdf8" fontSize={ICON_SIZE} /> },
   { name: 'C++', icon: <SiCplusplus color="#155e75" fontSize={ICON_SIZE} /> },
@@ -77,6 +81,7 @@ export const languateSkills = [
 
 export const frameworkSkills = [
   { name: 'React', icon: <FaReact color="#00ffff" fontSize={ICON_SIZE} /> },
+   { name: 'Flutter', icon: <SiFlutter color="#3590dc" fontSize={ICON_SIZE} /> },
   { name: 'Laravel', icon: <FaLaravel color="#00ffff" fontSize={ICON_SIZE} /> },
   {
     name: 'Next JS',

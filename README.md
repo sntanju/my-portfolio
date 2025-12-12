@@ -35,14 +35,14 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 <p align="center">
   <a href="https://sanjidanasrin.vercel.app/" target="_blank">
-    <img width="500" src="./public/screenShot/portfolio3.jpeg">
+    <img width="500" src="./public/screenShot/portfolioDark.png">
   </a>
 </p>
 
 <p align="center">
   <a href="https://sanjidanasrin.vercel.app/" target="_blank">
     <!-- <img width="500" src="./public/screenShot/portfolio1.jpeg" /> -->
-    <img width="500" src="./public/screenShot/portfolio2.jpeg" />
+    <img width="500" src="./public/screenShot/portfolioLight.png" />
   </a>
 </p>
 

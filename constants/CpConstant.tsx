@@ -14,7 +14,7 @@ export const competitiveProgramingDetails = [
     name: 'Codeforces',
     topRating: 'Top rating 1030',
     participationInContest: 'Participated in 60+ contests',
-    totalSolve: 'Total 578+ prblem solved',
+    totalSolve: 'Total 640+ prblem solved',
     link: 'https://codeforces.com/profile/sntanju07',
     icon: (
       <Image
@@ -27,9 +27,9 @@ export const competitiveProgramingDetails = [
   },
   {
     name: 'LeetCode',
-    topRating: 'Top rating 1372',
-    participationInContest: 'Participated in 11 contest',
-    totalSolve: 'Total 185+ prblem solved',
+    topRating: 'Top rating 1401',
+    participationInContest: 'Participated in 12 contest',
+    totalSolve: 'Total 315+ prblem solved',
     link: 'https://leetcode.com/u/sntanju07/',
     icon: <Image src={leetcode} alt="leetcode" />,
   },
